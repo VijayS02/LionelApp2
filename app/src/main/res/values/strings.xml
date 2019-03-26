@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lionel App</string>
+    <string name="title_activity_home_screen">homeScreen</string>
+    <string name="title_home">Timetable</string>
+    <string name="title_dashboard">Homework</string>
+    <string name="title_notifications">Bulletin</string>
+
+</resources>
